@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // comment1
 // comment2
+// comment3
 // Usage: node parse.js
 //
 // Script that creates index.html out of web/template.html and README.md.
